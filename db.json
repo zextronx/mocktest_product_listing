@@ -1,0 +1,103 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Laptops"
+        },
+        {
+            "id": 2,
+            "name": "Mobiles"
+        },
+        {
+            "id": 3,
+            "name": "Speakers"
+        },
+        {
+            "id": 4,
+            "name": "Headphones"
+        },
+        {
+            "id": 5,
+            "name": "Televisions"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Lenovo",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 2,
+            "name": "Asus",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 3,
+            "name": "Mac",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 4,
+            "name": "Dell",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 5,
+            "name": "Hp",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 6,
+            "name": "Nokia",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 7,
+            "name": "Iphone",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 8,
+            "name": "LG",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 9,
+            "name": "JBL",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 3,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 10,
+            "name": "Jabra",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id": 11,
+            "name": "Noise",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
+}
